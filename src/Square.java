@@ -1,4 +1,4 @@
-public class Square {
+public class Square extends Rectangle {
     // Длина стороны квадрата
     private final double a;
 

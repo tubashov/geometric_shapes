@@ -1,4 +1,4 @@
-public class Rectangle {
+public class Rectangle extends Parallelogram {
     // Длины сторон прямоугольника
     private final double a;
     private final double b;
